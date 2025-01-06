@@ -1,2 +1,2 @@
 # first-repoditory
-## git congig
+## git config
