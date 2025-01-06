@@ -1,1 +1,2 @@
 # first-repoditory
+## git congig
